@@ -1,7 +1,7 @@
 ---
 name: GO-LIVE ADDON REQUEST
 about: Suggest an idea for this project
-title: "[GO LIVE] - ===Addon Name Here==="
+title: PUT THE ADDON OR MAP NAME HERE!
 labels: go-live-addon
 assignees: Pasta10
 
